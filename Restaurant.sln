@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.Contracts", "Restaurant.Contracts\Restaurant.Contracts.csproj", "{5A546153-3287-4B64-B96B-4C5EC634F654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant", "Restaurant\Restaurant.csproj", "{1980CE78-790D-4B58-AF42-1EB0FAE6CA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A546153-3287-4B64-B96B-4C5EC634F654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A546153-3287-4B64-B96B-4C5EC634F654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A546153-3287-4B64-B96B-4C5EC634F654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A546153-3287-4B64-B96B-4C5EC634F654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1980CE78-790D-4B58-AF42-1EB0FAE6CA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1980CE78-790D-4B58-AF42-1EB0FAE6CA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1980CE78-790D-4B58-AF42-1EB0FAE6CA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1980CE78-790D-4B58-AF42-1EB0FAE6CA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

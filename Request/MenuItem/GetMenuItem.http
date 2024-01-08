@@ -1,0 +1,2 @@
+@id=945ece44-c12b-4a24-9fe9-ea101cdc590e
+GET  http://localhost:5128/api/menuitem/{{id}}

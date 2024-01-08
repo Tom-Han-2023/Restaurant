@@ -1,0 +1,9 @@
+POST http://localhost:5128/api/menuitem
+Content-Type: application/json
+
+{
+  "name": "Sandwich",
+  "category": "bakery",
+  "price": 5.964432435,
+  "availability": true
+}

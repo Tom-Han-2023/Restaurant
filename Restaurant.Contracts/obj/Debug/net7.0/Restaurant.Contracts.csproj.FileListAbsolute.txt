@@ -1,0 +1,12 @@
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/bin/Debug/net7.0/Restaurant.Contracts.deps.json
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/bin/Debug/net7.0/Restaurant.Contracts.dll
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/bin/Debug/net7.0/Restaurant.Contracts.pdb
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/Restaurant.Contracts.csproj.AssemblyReference.cache
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/Restaurant.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/Restaurant.Contracts.AssemblyInfoInputs.cache
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/Restaurant.Contracts.AssemblyInfo.cs
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/Restaurant.Contracts.csproj.CoreCompileInputs.cache
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/Restaurant.Contracts.dll
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/refint/Restaurant.Contracts.dll
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/Restaurant.Contracts.pdb
+/Users/tomhan/repos/project/Restaurant/Restaurant.Contracts/obj/Debug/net7.0/ref/Restaurant.Contracts.dll

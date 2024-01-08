@@ -1,0 +1,2 @@
+@id=16b31799-32b8-4f7f-8ba2-fc0d08fe5e44
+DELETE  http://localhost:5128/api/menuitem/{{id}}
